@@ -1,6 +1,6 @@
-# Pokédex App
+# Pokedex App
 
-A simple full-stack Pokémon tracking app with basic CRUD operations.
+A simple full-stack Pokemon tracking app with basic CRUD operations.
 
 ## 🧩 Tech Stack
 
