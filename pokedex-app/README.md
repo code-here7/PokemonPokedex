@@ -9,6 +9,16 @@ A simple full-stack Pokemon tracking app with basic CRUD operations.
 - **State Management:** Redux
 - **Dev Tools:** Concurrently, Nodemon
 
+## 🧪 Running Tests
+
+Unit tests are written using **Jest** and **Supertest** for the backend APIs.
+To run tests:
+# Go to backend folder
+cd pokedex-backend
+
+# Run the tests
+npm test
+
 ## 📦 Folder Structure
 
 pokedex-app/
